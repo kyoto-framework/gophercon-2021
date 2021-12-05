@@ -1,0 +1,37 @@
+name: Presentation Workflow
+
+on:
+  push:
+    branches:
+      - master
+
+jobs:
+
+  presentation:
+    name: Build Presentation
+    runs-on: ubuntu-latest
+    env:
+      REPOSITORY_NAME: ${{ github.event.repository.name }}
+    steps:
+
+    - name: Check Out
+      uses: actions/checkout@v2
+
+    - name: Setup Node
+      uses: actions/setup-node@v2
+
+    - name: Install Marp
+      run: |
+        npm i -g @marp-team/marp-cli
+
+    - name: Build Presentation
+      run: |
+        marp presentation.md
+        marp --pdf presentation.md
+
+    - name: Archive production artifacts
+        uses: actions/upload-artifact@v2
+        with:
+          name: presentation
+          path: |
+            presentation.*
