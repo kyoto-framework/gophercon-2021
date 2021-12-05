@@ -30,8 +30,8 @@ jobs:
         marp --pdf presentation.md
 
     - name: Archive production artifacts
-        uses: actions/upload-artifact@v2
-        with:
-          name: presentation
-          path: |
-            presentation.*
+      uses: actions/upload-artifact@v2
+      with:
+        name: presentation
+        path: |
+          presentation.*
