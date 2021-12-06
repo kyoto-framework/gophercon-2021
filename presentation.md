@@ -31,6 +31,14 @@ SSR-first Frontend Library
 
 ---
 
+# Backstory
+
+- Creating frontend prototype with Vue and components library
+- Facing problems during the growth phase of the project
+- Switching to templating approach
+
+---
+
 # Why Go templates?
 
 - Avoiding unnecessary complexity (tools, payloads, rendering steps)
@@ -68,4 +76,5 @@ SSR-first Frontend Library
 
 # Summary
 
-- Presentation and notes are available on [github.com/kyoto-framework/kyoto](https://github.com/kyoto-framework/kyoto)
+- Library home page and documentation: [github.com/kyoto-framework/kyoto](https://github.com/kyoto-framework/kyoto)
+- Presentation and notes: [github.com/kyoto-framework/gophercon-2021](https://github.com/kyoto-framework/gophercon-2021)
