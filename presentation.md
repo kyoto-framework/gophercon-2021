@@ -58,12 +58,6 @@ SSR-first Frontend Library
 
 ---
 
-# Use cases
-
-Not ready yet
-
----
-
 # Future plans
 
 - Advanced UI Kit
@@ -74,4 +68,4 @@ Not ready yet
 
 # Summary
 
-- Presentation and notes are available on [https://github.com/kyoto-framework/kyoto](https://github.com/kyoto-framework/kyoto)
+- Presentation and notes are available on [github.com/kyoto-framework/kyoto](https://github.com/kyoto-framework/kyoto)
