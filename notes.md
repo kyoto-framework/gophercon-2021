@@ -6,8 +6,8 @@ Today I'd like to present the library named kyoto.
 
 # Slide 2
 
-And first, I'd like to introduce myself.  
-I'm Yurii Zinets. Now I work at Akamai. Also, I'm Core Developer of BrokerOne Real Estate platform on part time. Overall story I'm going to tell is actually related to BrokerOne development process.
+But first, let me introduce myself.  
+I'm Yurii Zinets. Software Engineer at Akamai, but also Core Developer of BrokerOne Real Estate platform on part time. Overall story I'm going to tell is actually related to BrokerOne development process.
 
 # Slide 3
 
