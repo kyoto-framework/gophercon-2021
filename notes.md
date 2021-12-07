@@ -68,7 +68,7 @@ This approach will reduce the initial amount of data to transfer between server 
 And last, but the most interesting and crazy idea I'm experimenting on is bringing the whole rendering process to the Edge Workers.  
 It's giving to us a serverless setup and insanely fast responses.  
 Unfortunately, Cloudflare Edge Workers have a lot of restrictions (like 1 MB executable limit) and don't have official support for Go.  
-I was able to run Go on the Edge Workers with tinygo compiler, but it's not enough to be able to use kyoto as expected.
+I was able to run Go on the Edge Workers with tinygo compiler and WASM, but it's not enough to be able to use kyoto as expected.
 
 # Slide 8
 
@@ -83,4 +83,4 @@ I just believe that every solution has an own purpose.
 And I hope this solution will help someone too.  
 You can find all needed links on this slide.  
 Don't hesitate to contact me directly anytime.  
-And that's all from my side for today.  
+And that's all from my side for today. Thank you for your attention!  
