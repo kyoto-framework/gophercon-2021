@@ -24,7 +24,7 @@ SSR-first Frontend Library
 - Working at Akamai (Software Engineer L2)
 - Working at BrokerOne on part time (Core Developer)
 
-### Contacts
+## Contacts
 
 - Email: yurii.zinets@icloud.com
 - Telegram: [@yuriizinets](https://t.me/yuriizinets)
@@ -68,6 +68,7 @@ SSR-first Frontend Library
 
 # Future plans
 
+- Better documentation
 - Advanced UI Kit
 - Server Side State
 - Running on the Edge Network
@@ -76,5 +77,17 @@ SSR-first Frontend Library
 
 # Summary
 
-- Library home page and documentation: [github.com/kyoto-framework/kyoto](https://github.com/kyoto-framework/kyoto)
+- Go is not limited with current domain
+- It's not a framework  
+- It's not an opposite to JavaScript frameworks
+
+## Links
+
+- Home page / Documentation: [kyoto.codes](https://kyoto.codes)
+- Repository: [github.com/kyoto-framework/kyoto](https://github.com/kyoto-framework/kyoto)
 - Presentation and notes: [github.com/kyoto-framework/gophercon-2021](https://github.com/kyoto-framework/gophercon-2021)
+
+## Contacts
+
+- Email: yurii.zinets@icloud.com
+- Telegram: [@yuriizinets](https://t.me/yuriizinets)
