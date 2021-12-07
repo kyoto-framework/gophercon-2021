@@ -1,7 +1,7 @@
 
 # Slide 1
 
-Hello everyone!  
+Hi everyone!  
 Today I'd like to present the library named kyoto.  
 It's an SSR-first go frontend library.  
 And if it's not so interesting for you, feel free to take a cup of coffee during these 7 minutes :)  
@@ -67,7 +67,7 @@ Also, one of the features I'd like to provide is a Server Side State.
 This approach will reduce the initial amount of data to transfer between server and client.  
 And last, but the most interesting and crazy idea I'm experimenting on is bringing the whole rendering process to the Edge Workers.  
 It's giving to us a serverless setup and insanely fast responses.  
-Unfortunately, Cloudflare Edge Workers have a lot of restrictions (like 1 MB executable limit) and don't have official support for Go.  
+Unfortunately, Cloudflare Edge Workers have a lot of restrictions (like 1 MB executable size limit) and don't have official support for Go.  
 I was able to run Go on the Edge Workers with tinygo compiler and WASM, but it's not enough to be able to use kyoto as expected.
 
 # Slide 8
