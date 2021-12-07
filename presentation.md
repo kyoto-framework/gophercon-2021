@@ -44,7 +44,7 @@ SSR-first Frontend Library
 - Avoiding unnecessary complexity (tools, payloads, rendering steps)
 - Full control over project setup
 - Fewer problems in the runtime
-- Simlier debugging
+- Easier debugging
 
 ---
 
