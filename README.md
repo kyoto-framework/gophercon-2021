@@ -5,7 +5,7 @@ Materials of the kyoto presentation on GopherCon 2021
 
 ## Recording
 
-[https://youtu.be/35eIxI_n5ZM?t=11860](https://youtu.be/35eIxI_n5ZM?t=11860)
+[https://www.youtube.com/watch?v=Ufe2YVHijb0](https://www.youtube.com/watch?v=Ufe2YVHijb0)
 
 ## Presentation
 
